@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**trader-going/trader-going** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요.  
+저는 **알고리즘 트레이딩과 자동매매**를 연구·구현하고 있는 트레이더 **고잉** 입니다.
 
-Here are some ideas to get you started:
+주로 파이썬을 이용하여 개발하며 주식과 크립토 시장에서 추세추종 및 통계적 차익거래 시스템 위주로 개발하고 있습니다.
+또한 트레이딩뷰에서 웹훅(Webhook)을 활용한 자동매매 구조, 업비트·바이낸스 등 거래소 연동, 그리고 **실전에서 바로 검증 가능한 트레이딩 봇과 전략**을 만드는 데 집중하고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+복잡한 이론보다는  
+- *실제로 동작하는 구조*  
+- *개인이 운영 가능한 자동매매 환경*  
+- *재현 가능한 설정과 코드*  
+를 중요하게 생각합니다.
+
+---
+
+### 🔗 커뮤니티 & 연락처
+
+- 💬 **카카오톡 오픈채팅**  
+  https://open.kakao.com/me/trader_going
+
+- 📢 **텔레그램**  
+  https://t.me/trader_going
+
+- 🇰🇷 **트레이딩뷰 유저 코리아 오픈채팅**  
+  https://open.kakao.com/o/gYMmhcYg
+
+---
+
+> 본 저장소는 트레이딩 자동화, 웹훅 연동, 봇 구조 예제를 공유하기 위한 공간입니다.  
+> 실전 사용 시에는 반드시 충분한 테스트와 리스크 관리를 병행하시기 바랍니다.
